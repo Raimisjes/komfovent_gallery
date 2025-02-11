@@ -17,7 +17,9 @@ const selectedImage = images.filter(image => image.id === props.id)[0];
       </div>
       <div class="col-md-5">
         <div class="info-holder">
-          <a href="/" class="back">Back to gallery</a>
+          <router-link to="/" class="back">
+            Back to gallery
+          </router-link>
           <h3>{{ selectedImage.title }}</h3>
           <p>{{ selectedImage.description }}</p>
           <div class="categories">
