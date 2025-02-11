@@ -28,8 +28,8 @@
 
 <script setup>
 import { ref, computed } from 'vue';
-import 'bootstrap/dist/css/bootstrap.min.css'
-import { images, categories } from '@/data/data'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { images, categories } from '@/data/data';
 import ImageHolder from '@/components/ImageHolder.vue';
 
 const filteredImages = computed(() => {

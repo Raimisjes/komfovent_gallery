@@ -11,9 +11,10 @@ const router = createRouter({
       component: GalleryGrid,
     },
     {
-      path: '/image',
+      path: '/image/:id',
       name: 'imageInfo',
       component: ImageInfo,
+      props: (route) => ({ id: route.params.id }),
     },
   ],
 })

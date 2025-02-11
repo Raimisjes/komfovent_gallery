@@ -7,7 +7,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <a href="/image" class="image-holder col-md-4 col-sm-6 col-xs-12 mb-4">
+  <a :href="`/image/${image.id}`" class="image-holder col-md-3 col-sm-4 col-xs-12 mb-4">
     <img :src="image.src" :alt="image.alt" />
   </a>
 </template>

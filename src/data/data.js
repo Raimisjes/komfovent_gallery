@@ -1,7 +1,7 @@
 export const images = [
   {
     id: '1',
-    src: 'https://picsum.photos/800/600?random=1',
+    src: 'https://picsum.photos/id/237/800/600',
     alt: 'Sunset over Manhattan skyline',
     category: ['City', 'Architecture', 'Sunset'],
     title: 'Manhattan Golden Hour',
@@ -10,7 +10,7 @@ export const images = [
   },
   {
     id: '2',
-    src: 'https://picsum.photos/800/600?random=2',
+    src: 'https://picsum.photos/id/236/800/600',
     alt: 'Desert sand dunes at dawn',
     category: ['Desert', 'Nature', 'Landscape'],
     title: 'Sahara Dawn',
@@ -19,7 +19,7 @@ export const images = [
   },
   {
     id: '3',
-    src: 'https://picsum.photos/800/600?random=3',
+    src: 'https://picsum.photos/id/235/800/600',
     alt: 'Tropical waterfall in rainforest',
     category: ['Nature', 'Water', 'Tropical'],
     title: 'Hidden Paradise Falls',
@@ -28,7 +28,7 @@ export const images = [
   },
   {
     id: '4',
-    src: 'https://picsum.photos/800/600?random=4',
+    src: 'https://picsum.photos/id/234/800/600',
     alt: 'Northern Lights over mountain range',
     category: ['Nature', 'Night', 'Arctic'],
     title: 'Arctic Light Dance',
@@ -37,7 +37,7 @@ export const images = [
   },
   {
     id: '5',
-    src: 'https://picsum.photos/800/600?random=5',
+    src: 'https://picsum.photos/id/233/800/600',
     alt: 'Traditional Japanese temple',
     category: ['Architecture', 'Culture', 'City'],
     title: 'Kyoto Serenity',
@@ -46,7 +46,7 @@ export const images = [
   },
   {
     id: '6',
-    src: 'https://picsum.photos/800/600?random=6',
+    src: 'https://picsum.photos/id/232/800/600',
     alt: 'Mediterranean coastal town',
     category: ['City', 'Coastal', 'Architecture'],
     title: 'Amalfi Dreams',
@@ -55,7 +55,7 @@ export const images = [
   },
   {
     id: '7',
-    src: 'https://picsum.photos/800/600?random=7',
+    src: 'https://picsum.photos/id/231/800/600',
     alt: 'Wild horses running in field',
     category: ['Nature', 'Wildlife', 'Prairie'],
     title: 'Wild Spirit',
@@ -63,7 +63,7 @@ export const images = [
   },
   {
     id: '8',
-    src: 'https://picsum.photos/800/600?random=8',
+    src: 'https://picsum.photos/id/230/800/600',
     alt: 'Modern art museum interior',
     category: ['Architecture', 'Art', 'Interior'],
     title: 'Modern Perspectives',
@@ -72,7 +72,7 @@ export const images = [
   },
   {
     id: '9',
-    src: 'https://picsum.photos/800/600?random=9',
+    src: 'https://picsum.photos/id/229/800/600',
     alt: 'Ancient ruins at sunset',
     category: ['Architecture', 'Historic', 'Sunset'],
     title: 'Ruins of Time',
@@ -81,7 +81,7 @@ export const images = [
   },
   {
     id: '10',
-    src: 'https://picsum.photos/800/600?random=10',
+    src: 'https://picsum.photos/id/228/800/600',
     alt: 'Underwater coral reef',
     category: ['Nature', 'Underwater', 'Marine'],
     title: 'Coral Kingdom',
@@ -90,7 +90,7 @@ export const images = [
   },
   {
     id: '11',
-    src: 'https://picsum.photos/800/600?random=11',
+    src: 'https://picsum.photos/id/227/800/600',
     alt: 'Alpine lake reflection',
     category: ['Nature', 'Mountains', 'Water'],
     title: 'Mirror of the Alps',
@@ -99,7 +99,7 @@ export const images = [
   },
   {
     id: '12',
-    src: 'https://picsum.photos/800/600?random=12',
+    src: 'https://picsum.photos/id/225/800/600',
     alt: 'Street market in Morocco',
     category: ['Culture', 'Market', 'Street'],
     title: 'Colors of Marrakech',
@@ -108,7 +108,7 @@ export const images = [
   },
   {
     id: '13',
-    src: 'https://picsum.photos/800/600?random=13',
+    src: 'https://picsum.photos/id/106/800/600',
     alt: 'Vintage car in Havana',
     category: ['Urban', 'Vintage', 'Culture'],
     title: 'Havana Classics',
@@ -117,7 +117,7 @@ export const images = [
   },
   {
     id: '14',
-    src: 'https://picsum.photos/800/600?random=14',
+    src: 'https://picsum.photos/id/223/800/600',
     alt: 'Cherry blossom festival',
     category: ['Nature', 'Festival', 'Spring'],
     title: 'Spring Symphony',
@@ -126,7 +126,7 @@ export const images = [
   },
   {
     id: '15',
-    src: 'https://picsum.photos/800/600?random=15',
+    src: 'https://picsum.photos/id/17/800/600',
     alt: 'Modern glass skyscraper',
     category: ['Architecture', 'Modern', 'City'],
     title: 'Urban Reflections',
@@ -135,7 +135,7 @@ export const images = [
   },
   {
     id: '16',
-    src: 'https://picsum.photos/800/600?random=16',
+    src: 'https://picsum.photos/id/27/800/600',
     alt: 'Polar bear on ice',
     category: ['Wildlife', 'Arctic', 'Nature'],
     title: 'Arctic Guardian',
@@ -144,7 +144,7 @@ export const images = [
   },
   {
     id: '17',
-    src: 'https://picsum.photos/800/600?random=17',
+    src: 'https://picsum.photos/id/37/800/600',
     alt: 'Ancient Buddhist temple',
     category: ['Religion', 'Architecture', 'Historic'],
     title: 'Temple of Dawn',
@@ -153,7 +153,7 @@ export const images = [
   },
   {
     id: '18',
-    src: 'https://picsum.photos/800/600?random=18',
+    src: 'https://picsum.photos/id/47/800/600',
     alt: 'Hot air balloons over valley',
     category: ['Adventure', 'Landscape', 'Sky'],
     title: 'Cappadocia Dreams',
@@ -162,7 +162,7 @@ export const images = [
   },
   {
     id: '19',
-    src: 'https://picsum.photos/800/600?random=19',
+    src: 'https://picsum.photos/id/57/800/600',
     alt: 'Street art mural',
     category: ['Art', 'Urban', 'Culture'],
     title: 'Urban Canvas',
@@ -170,7 +170,7 @@ export const images = [
   },
   {
     id: '20',
-    src: 'https://picsum.photos/800/600?random=20',
+    src: 'https://picsum.photos/id/67/800/600',
     alt: 'Vineyard at sunset',
     category: ['Agriculture', 'Landscape', 'Sunset'],
     title: 'Tuscan Gold',
